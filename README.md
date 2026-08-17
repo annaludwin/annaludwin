@@ -17,6 +17,11 @@ I build and maintain E2E automation, validate APIs, and set up a practical quali
 - **[SEO Analyzer for QA](https://github.com/annaludwin/apps-built-with-ai)**  
   TypeScript web tool: paste a URL, get an SEO report. Unit tests included.
 
+### Also learning frontend
+
+- **[Shopping list](https://github.com/annaludwin/shopping-list)** — React + TypeScript (Vite). Learning project.
+- **[BeL meal planner](https://github.com/annaludwin/bel)** — HTML, CSS, and vanilla JavaScript. Early learning project.
+
 ### Links
 
 - [LinkedIn](https://www.linkedin.com/in/anna-ludwin-2827b384)
